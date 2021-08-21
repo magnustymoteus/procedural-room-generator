@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1629584595 source:c:\users\pil_p\desktop\c\projects\procedural room generator\room.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Room.h"
+
+1629584383 c:\users\pil_p\desktop\c\projects\procedural room generator\room.h
+	<iostream>
+
+1629582612 source:c:\users\pil_p\desktop\c\projects\procedural room generator\program2.cpp
+	"Room.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1629588701 source:c:\users\pil_p\desktop\c\projects\procedural room generator\main.cpp
+	"Room.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1629589120 source:c:\users\pil_p\desktop\c\projects\procedural_room_gen\procedural_room_gen\room.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Room.h"
+
+1629584383 c:\users\pil_p\desktop\c\projects\procedural_room_gen\procedural_room_gen\room.h
+	<iostream>
+
